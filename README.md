@@ -52,4 +52,4 @@ Loan-Approval-Prediction/
 - Experimenting with features (Removing low correlation features)
 - 
 ## 🚀 Summary
-- The model performs best using the Linear Regression model and using the Polynomial Regression at degree = 1, otherwise, the R² value slightly drops¶
+- The model performs best using the Linear Regression model and using the Polynomial Regression at degree = 1, otherwise, the R² value slightly drops
