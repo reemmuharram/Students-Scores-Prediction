@@ -5,7 +5,7 @@
 
 ## 📂 Project Structure
 ```
-Loan-Approval-Prediction/
+Students-Scores-Prediction/
 ├── README.md
 ├── model.ipynb
 ├── app.py
