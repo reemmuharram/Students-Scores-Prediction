@@ -50,6 +50,6 @@ Students-Scores-Prediction/
 - Linear Regression: Model training, Evaluation (MSE, RMSE, MAE, R² scores)
 - Polynomial Regression model training and Evaluation (degree = 1, degree = 2)
 - Experimenting with features (Removing low correlation features)
-- 
+
 ## 🚀 Summary
 - The model performs best using the Linear Regression model and using the Polynomial Regression at degree = 1, otherwise, the R² value slightly drops
